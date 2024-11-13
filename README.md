@@ -1,6 +1,6 @@
 # Hello-World
 Hello World!
 <br>
-This is my first repository.
+This is my first Repository.
 <br>
 Author - Venkat Karthikeya
